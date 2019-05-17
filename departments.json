@@ -1,0 +1,19 @@
+[
+    { "code": "AIIB", "type": "CAT", "color": "#F234FF", "radius": 10 },
+    { "code": "ACB", "type": "FUN", "color": "#2FA32D", "radius": 100 },
+    { "code": "World Bank", "type": "FUN", "color": "#22F032", "radius": 40 },
+    { "code": "ADB", "type": "CAT", "color": "#DD33AA", "radius": 20 },
+    { "code": "EXIM", "type": "CAT", "color": "#F903FD", "radius": 70 },
+    { "code": "OBH", "type": "FUN", "color": "#2DDEDD", "radius": 160 },
+    { "code": "OB", "type": "CAT", "color": "#3DAADF", "radius": 10 },
+    { "code": "OCP", "type": "FUN", "color": "#22FF00", "radius": 200 },
+    { "code": "SILKY", "type": "CAT", "color": "#F00221", "radius": 30 },
+    { "code": "HSBC", "type": "CAT", "color": "#FFFFD0", "radius": 180 },
+    { "code": "OBH", "type": "FUN", "color": "#2DDEDD", "radius": 60 },
+    { "code": "SILKY", "type": "BAG", "color": "#F00221", "radius": 30 },
+    { "code": "HSBC", "type": "BAG", "color": "#FFFFD0", "radius": 180 },
+    { "code": "OBH", "type": "FUN", "color": "#2DDEDD", "radius": 60 },
+    { "code": "OB", "type": "BAG", "color": "#3DAADF", "radius": 100 },
+    { "code": "OCP", "type": "FUN", "color": "#22FF00", "radius": 200 },
+    { "code": "SILKY", "type": "BAG", "color": "#F00221", "radius": 30 }
+]
